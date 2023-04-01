@@ -4,9 +4,9 @@
 
 - 💥 I’m currently learning **Backend Web Development**
 
-- 🔗 You will get my projects from here ➡️ **[Projects](https://jahmedabeer.com)**
+- 🔗 Know More about me from here ➡️ **[know more](https://jakariabeer.com/know-more/)**
 
-- 📧 How to reach me❗ **contact@jahmedabeer.com**
+- 📧 How to reach me❗ **jahmedabeer05@gmail.com**
 
 <br>
 
@@ -20,9 +20,9 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://www.figma.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a>
     <br>
-    <a href="https://www.elementor.com" target="_blank"> <img src="https://img.icons8.com/fluency/38/000000/wordpress.png"/> </a>
-    <a href="https://www.wordpress.com" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/000000/external-elementor-the-wordpress-page-builder-a-simple-intuitive-drag-and-drop-interface-logo-color-tal-revivo.png"/> </a>
-    <a href="www.photoshop.com"> <img src="https://img.icons8.com/color/38/000000/adobe-photoshop--v1.png"/> </a>
+    <a href="https://www.wordpress.com" target="_blank"> <img src="https://img.icons8.com/fluency/38/000000/wordpress.png"/> </a>
+    <a href="https://www.shopify.com/" target="_blank"> <img style="width:38px" src="https://img.icons8.com/color/256/shopify.png"/> </a>
+    <a href="https://www.wix.com/" target="_blank"> <img style="width:38px" src="https://img.icons8.com/windows/256/wix.png"/> </a>
     
 </p>
 
@@ -51,13 +51,7 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/jahmedabeer/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/jahmedabeer"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-<a href = "https://facebook.com/jahmedabeer"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+<a href = "https://www.linkedin.com/in/jakariabeer"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href = "https://web.facebook.com/jakariaabeer"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 
 </p>
-
-<br>
-<br>
-
-<a href="https://github.com/jahmedabeer/github-readme-activity-graph"><img alt="Jakaria Abeer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jahmedabeer&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
