@@ -2,11 +2,7 @@
 
 ## 📌 About Me
 
-- 💥 I’m currently learning **Backend Web Development**
-
-- 🔗 Know More about me from here ➡️ **[know more](https://jakariabeer.com/know-more/)**
-
-- 📧 How to reach me❗ **jahmedabeer05@gmail.com**
+- 💥 I’m currently learning **Product & Supplier Research**
 
 <br>
 
