@@ -2,7 +2,7 @@
 
 ## 📌 About Me
 
-- 💥 I’m currently learning **Product & Supplier Research**
+- 💥 I’m currently learning **Automation**
 
 <br>
 
