@@ -1,4 +1,4 @@
-<h1 align="center">Howdy  <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="30px"><br> I'm Jakaria Abeer</h1>
+<h1 align="center">Howdy  <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="30px"><br> I'm Jak</h1>
 
 ## 📌 About Me
 
