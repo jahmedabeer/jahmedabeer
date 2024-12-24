@@ -12,13 +12,15 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://www.figma.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
     <br>
     <a href="https://www.wordpress.com" target="_blank"> <img src="https://img.icons8.com/fluency/38/000000/wordpress.png"/> </a>
     <a href="https://www.shopify.com/" target="_blank"> <img style="width:38px" src="https://img.icons8.com/color/256/shopify.png"/> </a>
-    <a href="https://www.wix.com/" target="_blank"> <img style="width:38px" src="https://img.icons8.com/windows/256/wix.png"/> </a>
+    <a href="https://www.figma.com" target="_blank"> <img style="width:38px" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a>
+    <br>
+    <a href="https://www.wordpress.com" target="_blank"> <img style="width:78px;height:78px;" src="https://images.ctfassets.net/un655fb9wln6/1k5wBPhbu5kXiaYlFWgEJE/b590772959bd510e64cf230ef37bba3e/Make-Logo-RGB.svg"/> </a>
+    <a style="display:inline-block;" href="https://www.wordpress.com" target="_blank"> <img style="width:78px;" src="https://cdn.iconscout.com/icon/free/png-512/free-zapier-icon-download-in-svg-png-gif-file-formats--company-brand-logo-social-media-industry-1-pack-logos-icons-10439306.png?f=webp&w=256"/> </a>
+    
     
 </p>
 
